@@ -1,4 +1,4 @@
-#🚀 Monitoring with Prometheus & Grafana (Production-Ready DevOps Monitoring Stack)
+#🚀 MONITORING WITH PROMETHEUS & GRAFANA(Production-Ready DevOps Monitoring Stack)
 
 This project demonstrates a **scalable, containerized, and production-grade monitoring solution** using modern DevOps tools. It follows **industry best practices** such as service orchestration, centralized metrics collection, and observability-driven infrastructure monitoring.
 
